@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Юрий Алексеев](https://up.htmlacademy.ru/htmlcss/37/user/2383071).
-* Наставник: [Артем Картавый](https://htmlacademy.ru/profile/artem_k).
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k).
 
 ---
 
